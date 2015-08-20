@@ -1,0 +1,29 @@
+{
+  "name": "dom-smart-plan",
+  "version": "1.0.0",
+  "description": "Api for getting what type of Dominion Smart Plan day it is",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agrahamg/dom-smart-plan"
+  },
+  "keywords": [
+    "Dominion",
+    "smart",
+    "plan",
+    "dom",
+    "power",
+    "virginia",
+    "pricing",
+    "day"
+  ],
+  "author": "Andrew Graham",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.10.6",
+    "request-promise": "^0.4.3"
+  }
+}
